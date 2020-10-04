@@ -124,6 +124,7 @@ nav {
     padding: 1.25rem 4rem;
     position: fixed;
     width: 100vw;
+    top: 0;
     }
 
 nav ul {
@@ -151,4 +152,26 @@ footer i {
 .evento-link{
     text-decoration: none;
     color: inherit;
+}
+
+.content{
+    margin: 0 auto;
+    width: 55%;
+    height: auto;
+}
+
+.content_contenido{
+    margin-top: 150px;
+    text-align: left;
+}
+
+.content_contenido img{
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.content_subtitulo{
+    margin-top:40px;
+    margin-bottom:40px;
 }
